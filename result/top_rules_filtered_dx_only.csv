@@ -1,0 +1,154 @@
+itemset,support_readmitted,confidence_readmitted_given_pattern,lift_readmitted_vs_not
+"frozenset({'Dx_Neoplasms', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)', 'Insulin_Steady'})",0.003169851,0.7733299893088645,3.4116996198611287
+"frozenset({'Dx_Neoplasms', 'Change_Changed', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.00431452,0.7587882417486285,3.1457348814558217
+"frozenset({'Dx_Neoplasms', 'Age_60-70', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.003522057,0.7520224144970727,3.0326225371211843
+"frozenset({'Dx_Neoplasms', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)', 'Gender_Male'})",0.005018931,0.747839441,2.965727252873533
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Gender_Female', 'Age_20-30'})",0.004402571,0.7184277249840139,2.551486025899481
+"frozenset({'Dx_Digestive_system_disorders', 'Gender_Female', 'Age_20-30'})",0.003257903,0.7139695515048163,2.496131286934785
+"frozenset({'Dx_Neoplasms', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.008805142,0.7120021437428711,2.4722480680800083
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Endocrine_disorders', 'Age_20-30'})",0.003962314,0.6966329985126349,2.2963374233095326
+"frozenset({'Dx_Endocrine_disorders', 'Age_20-30', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.003169851,0.6879372458364581,2.2044836708578583
+"frozenset({'Insulin_Up', 'Dx_Endocrine_disorders', 'Age_20-30'})",0.006251651,0.6874260043350904,2.199242463765398
+"frozenset({'Age_20-30', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.003610108,0.6780131316018605,2.1057167175013225
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Fluid_and_electrolyte_disorders', 'Age_40-50'})",0.004138417,0.6739619574791275,2.0671267446834256
+"frozenset({'Dx_Neoplasms', 'Change_NoChange', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.004490623,0.6721813633150554,2.050467203794354
+"frozenset({'Dx_Digestive_system_disorders', 'Age_20-30'})",0.004578674,0.6720529786583197,2.0492730072950525
+"frozenset({'Gender_Female', 'Dx_Neoplasms', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.003786211,0.6694747495402132,2.0254874585494482
+"frozenset({'Insulin_Up', 'Gender_Female', 'Dx_Psychiatric_disorders'})",0.004402571,0.6689252953025278,2.020466335275524
+"frozenset({'Dx_Endocrine_disorders', 'Age_20-30', 'Insulin_Down'})",0.005635291,0.667313198,2.005830092808896
+"frozenset({'Dx_Cardiovascular_disorders', 'Dx_Infectious_disorders', 'Insulin_Down'})",0.003874263,0.6668367535955976,2.001531563857358
+"frozenset({'Dx_Neoplasms', 'Insulin_No', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.004050365,0.6655696543923183,1.9901592757168458
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Injuries', 'Age_70-80'})",0.003874263,0.6580670084902387,1.9245496188730675
+"frozenset({'Dx_Endocrine_disorders', 'Change_Changed', 'Age_20-30'})",0.012327199084265212,0.653089002,1.8825837361601698
+"frozenset({'Dx_Endocrine_disorders', 'Age_80-90', 'Insulin_Down'})",0.009773708,0.6523038333552854,1.876074273841009
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Change_Changed', 'Age_20-30'})",0.004138417,0.6493968342476564,1.852227525824374
+"frozenset({'Gender_Female', 'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders'})",0.004402571,0.6492841468085558,1.851311085313652
+"frozenset({'Dx_Digestive_system_disorders', 'Insulin_Up', 'Age_40-50'})",0.003169851,0.6489900385286084,1.8489219958548198
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Dx_Endocrine_disorders', 'Age_20-30'})",0.005987497,0.6488172424579981,1.8475202114112872
+"frozenset({'Dx_Musculoskeletal_and_connective_tissue_disorders', 'Dx_Cardiovascular_disorders', 'Insulin_Down'})",0.003962314,0.6486962602956965,1.8465395809384546
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Dx_Cardiovascular_disorders', 'Insulin_Down'})",0.006603857,0.648226768,1.842740461346007
+"frozenset({'Insulin_Up', 'Dx_Psychiatric_disorders'})",0.006603857,0.6440313434197521,1.8092360985006128
+"frozenset({'Insulin_Up', 'Change_Changed', 'Dx_Psychiatric_disorders'})",0.006603857,0.6440313434197521,1.8092360985006128
+"frozenset({'Dx_Neoplasms', 'Age_60-70', 'Dx_Hematologic_disorders'})",0.0030818,0.6440312716389563,1.8092355320205076
+"frozenset({'Dx_Endocrine_disorders', 'Age_70-80', 'Dx_Neurological_disorders'})",0.005018931,0.6429362752964242,1.8006205358166019
+"frozenset({'Dx_Digestive_system_disorders', 'Age_30-40', 'Insulin_Steady'})",0.003345954,0.6429362341156406,1.8006202128161768
+"frozenset({'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders', 'Change_Changed'})",0.005283085,0.6405764026652315,1.7822324616839116
+"frozenset({'Insulin_Up', 'Dx_Endocrine_disorders', 'Dx_Psychiatric_disorders'})",0.003434005,0.6382061240606008,1.7640047731695192
+"frozenset({'Dx_Cardiovascular_disorders', 'Age_20-30'})",0.003257903,0.6367909643906017,1.753235470373646
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_20-30'})",0.006339702,0.6367336669296748,1.752801207
+"frozenset({'Dx_Psychiatric_disorders', 'Dx_Endocrine_disorders', 'Insulin_Down'})",0.003434005,0.6342944694576054,1.734440462294498
+"frozenset({'Gender_Female', 'Dx_Endocrine_disorders', 'Age_20-30'})",0.013912124680813594,0.6314856132228835,1.713598263410042
+"frozenset({'Insulin_Up', 'Dx_Cardiovascular_disorders', 'Dx_Infectious_disorders'})",0.003257903,0.6286364530693623,1.6927791062561606
+"frozenset({'Dx_Psychiatric_disorders', 'Change_Changed', 'Dx_Nonspecific_abnormal_findings'})",0.003786211,0.6265838691704761,1.6779775093768812
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders'})",0.004226468,0.6262972753081105,1.6759237595189616
+"frozenset({'Dx_Psychiatric_disorders', 'Age_70-80', 'Gender_Male'})",0.003874263,0.6240655453489086,1.6600381732185476
+"frozenset({'Dx_Cardiovascular_disorders', 'Age_60-70', 'Dx_Infectious_disorders'})",0.004578674,0.6234674275479779,1.6558127321838023
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_80-90', 'Insulin_Down'})",0.004490623,0.6188981080049818,1.6239701796418062
+"frozenset({'Change_Changed', 'Dx_Genitourinary_disorders', 'Dx_Musculoskeletal_and_connective_tissue_disorders'})",0.00431452,0.6181096906354883,1.6185529600477684
+"frozenset({'Dx_Musculoskeletal_and_connective_tissue_disorders', 'Insulin_Down', 'Gender_Male'})",0.004842828,0.617682595,1.615627711151643
+"frozenset({'Dx_Psychiatric_disorders', 'Age_60-70', 'Gender_Male'})",0.004138417,0.6172564432254032,1.6127154390972922
+"frozenset({'Gender_Female', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.003434005,0.616656459,1.6086261871785383
+"frozenset({'Insulin_Up', 'Dx_Neoplasms', 'Gender_Female'})",0.003610108,0.6165369923614529,1.607813478953886
+"frozenset({'Dx_Psychiatric_disorders', 'Dx_Cardiovascular_disorders', 'Age_60-70'})",0.00369816,0.6164815414877661,1.6074364292119225
+"frozenset({'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders'})",0.008981245,0.6160806773369798,1.6047139098485435
+"frozenset({'Gender_Male', 'Dx_Genitourinary_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.005899445,0.6149246905466044,1.5968946215208495
+"frozenset({'Gender_Female', 'Dx_Neoplasms', 'Dx_Nonspecific_abnormal_findings'})",0.004138417,0.6142165209292214,1.5921275903485048
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Dx_Cardiovascular_disorders', 'Age_40-50'})",0.003786211,0.6120201666347063,1.5774535530007103
+"frozenset({'Change_Changed', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.00369816,0.6119680617629345,1.5771074529155298
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Dx_Cardiovascular_disorders', 'Age_80-90'})",0.007308268,0.6119411224008541,1.5769285480255717
+"frozenset({'Gender_Female', 'Dx_Neoplasms', 'Dx_Hematologic_disorders'})",0.005283085,0.6118561017566942,1.5763640869427136
+"frozenset({'Dx_Neoplasms', 'Change_Changed', 'Dx_Hematologic_disorders'})",0.004490623,0.6105219524712154,1.5675388031365092
+"frozenset({'Insulin_Up', 'Dx_Neurological_disorders'})",0.005899445,0.6093048536232523,1.559540371243053
+"frozenset({'Insulin_Up', 'Change_Changed', 'Dx_Neurological_disorders'})",0.005899445,0.6093048536232523,1.559540371243053
+"frozenset({'Dx_Genitourinary_disorders', 'Age_60-70', 'Insulin_Down'})",0.007484371,0.6092393624971387,1.559111395
+"frozenset({'Change_Changed', 'Dx_Injuries', 'Age_80-90'})",0.006603857,0.6092027886930448,1.558871893316918
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Skin_and_subcutaneous_disorders', 'Insulin_Down'})",0.009861759,0.6075202536330344,1.5479021764985743
+"frozenset({'Dx_Genitourinary_disorders', 'Age_80-90', 'Insulin_Down'})",0.006339702,0.6070606283737102,1.5449218688909172
+"frozenset({'Insulin_Up', 'Gender_Female', 'Dx_Neurological_disorders'})",0.003434005,0.6070111248036817,1.5446012931039033
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Fluid_and_electrolyte_disorders', 'Insulin_Down'})",0.003345954,0.6068237889950454,1.5433888724956424
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_40-50', 'Insulin_Down'})",0.003610108,0.6062305781952351,1.539557275
+"frozenset({'Insulin_Up', 'Gender_Male', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.004842828,0.6057192112866294,1.5362635680608003
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Genitourinary_disorders', 'Age_30-40'})",0.003874263,0.605719192,1.5362634462257145
+"frozenset({'Dx_Nonspecific_abnormal_findings', 'Age_70-80', 'Insulin_Down'})",0.00431452,0.6056337062504306,1.5357136648068113
+"frozenset({'Change_Changed', 'Dx_Skin_and_subcutaneous_disorders', 'Age_80-90'})",0.007132165,0.6055640944595553,1.5352661508587273
+"frozenset({'Dx_Cardiovascular_disorders', 'Age_80-90', 'Insulin_Down'})",0.015232896011270583,0.6053078198809101,1.533619996469835
+"frozenset({'Insulin_Up', 'Dx_Cardiovascular_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.004138417,0.6052737938595761,1.533401594431382
+"frozenset({'Dx_Genitourinary_disorders', 'Dx_Injuries', 'Change_NoChange'})",0.003169851,0.6051378016179703,1.5325290800121079
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_40-50', 'Insulin_Steady'})",0.005283085,0.6048823985263332,1.5308920591497523
+"frozenset({'Insulin_Up', 'Dx_Endocrine_disorders', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.005018931,0.6043989766559016,1.5277993255598534
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_80-90', 'Dx_Infectious_disorders'})",0.003345954,0.6043989402638793,1.5277990930232441
+"frozenset({'Gender_Male', 'Dx_Hematologic_disorders', 'Dx_Respiratory_disorders'})",0.004754777,0.6038627466948704,1.5243775778637452
+"frozenset({'Dx_Endocrine_disorders', 'Change_Changed', 'Dx_Injuries'})",0.007044114,0.6037355577478744,1.523567328717684
+"frozenset({'Insulin_Up', 'Dx_Genitourinary_disorders', 'Age_50-60'})",0.00431452,0.6028258231672844,1.5177870524578099
+"frozenset({'Dx_Poisonings_by_drugs,_medicaments,_and_biological_substances'})",0.004138417,0.6023504730126784,1.514777290384866
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Dx_Genitourinary_disorders', 'Insulin_Down'})",0.007220217,0.6017597890387887,1.5110472837144013
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Age_40-50', 'Change_NoChange'})",0.007308268,0.6013590444909949,1.5085229858611713
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.006515805,0.600443304,1.5027737224433844
+"frozenset({'Dx_Psychiatric_disorders', 'Change_Changed', 'Dx_Cardiovascular_disorders'})",0.007748525,0.599498954,1.4968723801971677
+"frozenset({'Dx_Genitourinary_disorders', 'Change_NoChange', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.006427754,0.5977890369449955,1.4862574416283243
+"frozenset({'Gender_Male', 'Dx_Psychiatric_disorders', 'Dx_Respiratory_disorders'})",0.003522057,0.5969446580449762,1.4810488682509217
+"frozenset({'Gender_Male', 'Age_80-90', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.00431452,0.5963742643370239,1.4775427125761653
+"frozenset({'Insulin_Up', 'Dx_Cardiovascular_disorders', 'Age_40-50'})",0.006251651,0.5960790682650764,1.4757320590066825
+"frozenset({'Change_Changed', 'Dx_Cardiovascular_disorders', 'Dx_Infectious_disorders'})",0.010037862,0.596062547,1.4756308003672625
+"frozenset({'Insulin_Up', 'Dx_Skin_and_subcutaneous_disorders', 'Gender_Male'})",0.008188782,0.5954443596630266,1.4718478752812663
+"frozenset({'Insulin_Up', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Cardiovascular_disorders'})",0.004226468,0.595085355,1.4696562916106104
+"frozenset({'Dx_Endocrine_disorders', 'Age_20-30'})",0.018402747,0.5946777455529338,1.4671726978430613
+"frozenset({'Insulin_Up', 'Gender_Female', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.005371137,0.5946602769921884,1.4670663723247481
+"frozenset({'Insulin_Up', 'Dx_Cardiovascular_disorders', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.00369816,0.5945562346141319,1.4664332895790912
+"frozenset({'Dx_Genitourinary_disorders', 'Age_70-80', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.0030818,0.5945562154966717,1.4664331732819822
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Skin_and_subcutaneous_disorders', 'Age_80-90'})",0.005018931,0.594111424,1.463730340269966
+"frozenset({'Dx_Digestive_system_disorders', 'Change_NoChange', 'Age_30-40'})",0.005371137,0.5939329520601143,1.4626474989126435
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Age_70-80', 'Insulin_Down'})",0.003169851,0.5938522023931626,1.462157879206398
+"frozenset({'Dx_Genitourinary_disorders', 'Insulin_Down', 'Gender_Male'})",0.013647970414722198,0.5938205328606371,1.461965906457042
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Endocrine_disorders', 'Insulin_Down'})",0.008100731,0.5937987718924745,1.4618340142863624
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Change_Changed', 'Age_80-90'})",0.015761204543453377,0.5934950223095609,1.4599944770209383
+"frozenset({'Dx_Hematologic_disorders', 'Insulin_Down', 'Gender_Male'})",0.003257903,0.5931877768307742,1.458136562883018
+"frozenset({'Dx_Infectious_disorders', 'Insulin_Steady', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.003257903,0.5931877768307742,1.458136562883018
+"frozenset({'Dx_Genitourinary_disorders', 'Dx_Cardiovascular_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.003610108,0.5930130144827809,1.4570810261393268
+"frozenset({'Dx_Neoplasms', 'Insulin_No', 'Dx_Hematologic_disorders'})",0.005018931,0.5925597260171855,1.4543474561922647
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Cardiovascular_disorders'})",0.011974993396143347,0.59237206,1.4532175121717879
+"frozenset({'Gender_Female', 'Dx_Genitourinary_disorders', 'Dx_Injuries'})",0.004490623,0.5909708257293763,1.444813384725403
+"frozenset({'Gender_Female', 'Dx_Skin_and_subcutaneous_disorders', 'Insulin_Down'})",0.007836577,0.5906617250224993,1.442967250142843
+"frozenset({'Dx_Digestive_system_disorders', 'Age_30-40', 'Gender_Male'})",0.004050365,0.5904476634236387,1.441690379206394
+"frozenset({'Dx_Neoplasms', 'Change_Changed', 'Age_50-60'})",0.005371137,0.5903228527697743,1.4409465032669524
+"frozenset({'Dx_Psychiatric_disorders', 'Change_Changed', 'Age_60-70'})",0.004666725,0.5901604051540104,1.4399789883058562
+"frozenset({'Insulin_Up', 'Dx_Fluid_and_electrolyte_disorders', 'Age_70-80'})",0.00493088,0.5898362843229221,1.4380508606161069
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Endocrine_disorders', 'Age_30-40'})",0.005899445,0.5897664160651339,1.4376356279957143
+"frozenset({'Dx_Endocrine_disorders', 'Dx_Skin_and_subcutaneous_disorders', 'Age_70-80'})",0.008805142,0.5896490746471729,1.4369385767564231
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Age_70-80', 'Gender_Male'})",0.010918376331777759,0.5896349937123212,1.436854957605641
+"frozenset({'Dx_Neoplasms', 'Dx_Hematologic_disorders'})",0.009333451,0.5893360970505024,1.4350813227501447
+"frozenset({'Age_70-80', 'Insulin_Steady', 'Dx_Neurological_disorders'})",0.003345954,0.5890978338383567,1.4336693314160185
+"frozenset({'Dx_Injuries', 'Insulin_Down'})",0.005635291,0.5886679858124146,1.4311261110445836
+"frozenset({'Change_Changed', 'Dx_Injuries', 'Insulin_Down'})",0.005635291,0.5886679858124146,1.4311261110445836
+"frozenset({'Gender_Female', 'Dx_Endocrine_disorders', 'Dx_Neurological_disorders'})",0.011358633441930088,0.5885204215797174,1.4302542639883002
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Endocrine_disorders', 'Insulin_Up'})",0.006956062,0.5883582130181397,1.4292966157103644
+"frozenset({'Dx_Digestive_system_disorders', 'Dx_Genitourinary_disorders', 'Age_70-80'})",0.00554724,0.5882795768726029,1.4288326345437903
+"frozenset({'Gender_Female', 'Dx_Endocrine_disorders', 'Dx_Substance_abuse'})",0.005018931,0.5879528872469496,1.4269069459523764
+"frozenset({'Change_Changed', 'Dx_Infectious_disorders', 'Dx_Nonspecific_abnormal_findings'})",0.003345954,0.5879528528084831,1.4269067431140507
+"frozenset({'Change_Changed', 'Dx_Genitourinary_disorders', 'Dx_Factors_Influencing_Health_Status_and_Contact_with_Health_Services_(V_Codes)'})",0.003169851,0.5877624494784186,1.4257858090189879
+"frozenset({'Change_Changed', 'Age_80-90', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.003874263,0.5874338909931659,1.4238539670824857
+"frozenset({'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders', 'Gender_Male'})",0.004578674,0.5872066425232702,1.4225196018479354
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Dx_Cardiovascular_disorders', 'Age_70-80'})",0.009421502,0.5871210610461138,1.4220174623915327
+"frozenset({'Dx_Neoplasms', 'Insulin_Down', 'Gender_Male'})",0.003962314,0.587040084,1.4215425282762648
+"frozenset({'Insulin_Up', 'Dx_Fluid_and_electrolyte_disorders', 'Age_80-90'})",0.004226468,0.5868597694996396,1.4204856515398778
+"frozenset({'Insulin_Up', 'Dx_Genitourinary_disorders', 'Dx_Cardiovascular_disorders'})",0.013471867570661267,0.5867008118753555,1.4195547166146762
+"frozenset({'Dx_Genitourinary_disorders', 'Dx_Injuries'})",0.006075548,0.5866639203741563,1.4193387640034005
+"frozenset({'Dx_Genitourinary_disorders', 'Dx_Cardiovascular_disorders', 'Insulin_Down'})",0.014704587479087787,0.5865739189439517,1.4188120823089287
+"frozenset({'Dx_Skin_and_subcutaneous_disorders', 'Insulin_Down'})",0.016377564497666638,0.5864820999167376,1.4182750004259757
+"frozenset({'Change_Changed', 'Dx_Skin_and_subcutaneous_disorders', 'Insulin_Down'})",0.016377564497666638,0.5864820999167376,1.4182750004259757
+"frozenset({'Age_60-70', 'Insulin_Steady', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.0061636,0.5864223370105126,1.4179255542275708
+"frozenset({'Insulin_No', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Nonspecific_abnormal_findings'})",0.003434005,0.5863748251618841,1.4176478145736147
+"frozenset({'Gender_Female', 'Dx_Endocrine_disorders', 'Insulin_Down'})",0.039975346,0.5861262038545635,1.4161954907833711
+"frozenset({'Dx_Digestive_system_disorders', 'Age_50-60', 'Dx_Respiratory_disorders'})",0.003257903,0.5849415937334141,1.4092994742472822
+"frozenset({'Dx_Endocrine_disorders', 'Insulin_Steady', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.005018931,0.5849212514691637,1.4091813988056046
+"frozenset({'Dx_Musculoskeletal_and_connective_tissue_disorders', 'Insulin_Down'})",0.009509554,0.5845654442145116,1.4071180070931675
+"frozenset({'Change_Changed', 'Dx_Musculoskeletal_and_connective_tissue_disorders', 'Insulin_Down'})",0.009509554,0.5845654442145116,1.4071180070931675
+"frozenset({'Dx_Endocrine_disorders', 'Age_70-80', 'Insulin_Down'})",0.012767456,0.5843654208125985,1.405959585833977
+"frozenset({'Insulin_Up', 'Dx_Neoplasms'})",0.007308268,0.5843404517639496,1.405815057644498
+"frozenset({'Insulin_Up', 'Dx_Neoplasms', 'Change_Changed'})",0.007308268,0.5843404517639496,1.405815057644498
+"frozenset({'Change_Changed', 'Dx_Injuries', 'Age_60-70'})",0.004754777,0.5841682174243576,1.4048185874731534
+"frozenset({'Dx_Nonspecific_abnormal_findings', 'Dx_Skin_and_subcutaneous_disorders', 'Change_NoChange'})",0.00369816,0.5841681969185132,1.4048184688847356
+"frozenset({'Dx_Cardiovascular_disorders', 'Age_70-80', 'Dx_Neurological_disorders'})",0.005106982,0.5839219614810981,1.4033952946895834
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Gender_Female', 'Age_40-50'})",0.008364885,0.5838675788791592,1.4030812050321104
+"frozenset({'Dx_Fluid_and_electrolyte_disorders', 'Dx_Neoplasms', 'Change_Changed'})",0.003345954,0.5834170934413715,1.4004825552276072
+"frozenset({'Gender_Male', 'Dx_Skin_and_subcutaneous_disorders', 'Dx_Other_and_unspecified_mortality_and_morbidity'})",0.0030818,0.5833527951193351,1.4001121051236085
